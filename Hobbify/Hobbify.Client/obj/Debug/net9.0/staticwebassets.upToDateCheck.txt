@@ -1,0 +1,4 @@
+C:\Users\milan\OneDrive\Desktop\Hobbify\Hobbify\Hobbify\Hobbify.Client\wwwroot\appsettings.json
+C:\Users\milan\OneDrive\Desktop\Hobbify\Hobbify\Hobbify\Hobbify.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
